@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="800"
-   height="600"
-   viewBox="0 0 211.66666 158.75"
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 49.999999 50"
    version="1.1"
    id="svg5"
    xml:space="preserve"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="desenho.svg"
+   sodipodi:docname="qw.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.46769781"
-     inkscape:cx="248.0234"
-     inkscape:cy="100.49224"
+     inkscape:zoom="1.28"
+     inkscape:cx="342.96875"
+     inkscape:cy="172.65625"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -49,7 +49,9 @@
      id="layer1"><g
        inkscape:label="Image"
        id="g15"
-       transform="matrix(0.26458333,0,0,0.26458333,-76.84761,-51.625368)"><path
+       transform="matrix(0.04080813,0,0,0.0523099,-4.6903029,1.1074888)"
+       inkscape:transform-center-x="4.4499154"
+       inkscape:transform-center-y="-0.22370096"><path
          style="fill:none;stroke:#000000;stroke-width:0.560494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 460.92584,364.7951 77.8498,-27.20345 32.33761,26.11531 V 263.59827 l 99.40822,-45.7018 93.41975,53.31876 v 122.95958 l -32.3376,7.61697 92.22206,-19.58649 63.47754,40.26111 1.19771,210.01062 -67.07059,-6.52885 -87.43135,-28.29156 -79.0475,-46.78994 -83.83824,-44.61365 -107.79203,-11.96952 z"
          id="path151" /><path
@@ -78,11 +80,11 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:98.9925px;font-family:Algerian;-inkscape-font-specification:'Algerian, Extra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.32012">Arch mochol</tspan></text><text
          xml:space="preserve"
          id="text22423"
-         style="font-weight:bold;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect22425)"
+         style="font-weight:bold;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect22425);display:inline"
          transform="translate(-269.40473,-438.31722)" /><text
          xml:space="preserve"
          id="text23683"
-         style="font-weight:bold;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect23685)"
+         style="font-weight:bold;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect23685);display:inline"
          transform="translate(-269.40473,-438.31722)" /><path
          style="opacity:0;fill:#1f241c;stroke:#000000;stroke-width:1.14161;stroke-linecap:round;stroke-linejoin:round"
          d="m 663.33532,554.76261 c -4.6111,-2.80996 -27.11269,-15.04474 -50.00353,-27.18841 L 571.7121,505.49481 V 384.85614 264.21747 l 48.78214,-22.27525 c 26.83018,-12.25137 48.86428,-22.18393 48.96466,-22.07235 0.23968,0.26642 2.67812,339.65661 2.44176,339.85183 -0.0998,0.0825 -3.95423,-2.14913 -8.56534,-4.95909 z"
