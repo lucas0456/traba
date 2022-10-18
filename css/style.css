@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+   display: block;
+}
+ main {
+    
+}.container{
+    padding: 20px;
+    display: block;
+    flex-wrap: wrap;
+    
+} .ima {
+    background: transparent;
+
+    width: 100%;
+    
+} .top{
+    opacity: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+} 
+
+.teste{
+    position: absolute;
+    top:0px;
+    width: 100%;
+  
+}
+.teste img{
+    width: 100%;
+}
+
+
