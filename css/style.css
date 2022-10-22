@@ -4,17 +4,20 @@
 }
 body {
    display: block;
+   margin: 0%;
 }
  main {
-    
-}.container{
+    padding: 2px;
+    margin: auto;
+
+}
+.container{
     padding: 20px;
     display: block;
     flex-wrap: wrap;
     
 } .ima {
     background: transparent;
-
     width: 100%;
     
 } .top{
