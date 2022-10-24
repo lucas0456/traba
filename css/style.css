@@ -1,6 +1,10 @@
 * {
     margin: 0;
     box-sizing: border-box;
+    padding: 0%;
+} 
+.navbar {
+    background-color: black;
 }
 body {
    display: block;
@@ -16,11 +20,13 @@ body {
     display: block;
     flex-wrap: wrap;
     
-} .ima {
+} 
+.ima {
     background: transparent;
     width: 100%;
     
-} .top{
+} 
+.top{
     opacity: 100%;
     position: fixed;
     top: 0px;
@@ -31,10 +37,33 @@ body {
     position: absolute;
     top:0px;
     width: 100%;
-  
 }
 .teste img{
     width: 100%;
+} 
+.nome {
+    color: white;
+} 
+.card {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.card2{
+    /* Tentar resolver os cards da esquerda */
+    margin: auto;
+    display: block;
+    background-color: black;
+}
+.imag{
+    border-radius: 100px;
+    margin-top: -100%;
+    width: 90%;
+    margin: auto;
+} 
+.rodape {
+    margin-top: auto;
+    background-color: black;
 }
 
 
