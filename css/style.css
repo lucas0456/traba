@@ -2,6 +2,8 @@
     margin: 0;
     box-sizing: border-box;
     padding: 0%;
+    display: block;
+    
 } 
 .navbar {
     background-color: black;
@@ -56,9 +58,8 @@ body {
     background-color: black;
 }
 .imag{
-    border-radius: 100px;
     margin-top: -100%;
-    width: 90%;
+    width: 100%;
     margin: auto;
 } 
 .rodape {
