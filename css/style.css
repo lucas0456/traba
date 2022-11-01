@@ -3,19 +3,40 @@
     box-sizing: border-box;
     padding: 0%;
     display: block;
-    
+    scrollbar-color: white;
 } 
+::-webkit-scrollbar {
+    width: 16px;            
+  }
+  
+::-webkit-scrollbar-track {
+    background: rgb(0, 0, 0);        
+  }
+  
+::-webkit-scrollbar-thumb {
+    background-color: rgb(165, 165, 165);    
+    border-radius: 20px;       
+    border: 3px solid rgb(95, 95, 95);  
+  }
 .navbar {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 body {
    display: block;
    margin: 0%;
 }
+.bot{
+    background-color: gray;
+    color: rgb(145, 145, 145);
+}
  main {
     padding: 2px;
     margin: auto;
 
+}
+.pop:hover{
+    color: rgb(112, 112, 112);
+    transition: 1s;
 }
 .container{
     padding: 40px;
@@ -47,7 +68,7 @@ body {
     color: white;
 } 
 .card {
-    background-color: black;
+    background-color: rgb(53, 53, 53);
     color: white;
     text-align: center;
 }
@@ -55,7 +76,16 @@ body {
     /* Tentar resolver os cards da esquerda */
     margin: auto;
     display: block;
-    background-color: black;
+    background-color: rgb(53, 53, 53);
+}
+.btn{
+    color: white;
+}
+.ma{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
 .imag{
     margin-top: -100%;
@@ -64,7 +94,8 @@ body {
 } 
 .rodape {
     margin-top: auto;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+    color: gray;
+    padding: 10px;
+    margin-top: 10px;
 }
-
-
